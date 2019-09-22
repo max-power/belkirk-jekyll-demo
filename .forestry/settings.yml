@@ -17,6 +17,8 @@ sections:
   templates:
   - landing-page
   - default
+- type: heading
+  label: THE GREAT DIVIDE
 - type: directory
   path: _people
   label: People
